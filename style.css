@@ -98,9 +98,10 @@ p.card-text{
 }
 
 .escudo {
-    transform: scale(-10);
+    transform: scale(10);
 }
 
 .dt {
     transform: scale(10);
 }
+
